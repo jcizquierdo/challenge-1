@@ -28,12 +28,19 @@ body {
     font-size: 20px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
     /*got rid of .header div ul (unnecessary)*/
 
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    color: white;
+    
 }
 
 .hero {
